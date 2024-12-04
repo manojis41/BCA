@@ -3,7 +3,7 @@
 ---
 
 ## Week 1: Lab Report (8 per day)
-
+Content sourced from [Nishan Lamichhane](https://kcc.edu.np/team/nishan-lamichhane/), Lecturer at the Department of Science and Technology, KCC.
 1. To print area and perimeter of a rectangle.  
 2. To print simple interest and amount.  
 3. To print the volume of a room and its total surface area.  
